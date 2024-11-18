@@ -1,0 +1,2 @@
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\obj\Debug\UserDataFetcher.csproj.AssemblyReference.cache
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\obj\Debug\UserDataFetcher.csproj.CoreCompileInputs.cache

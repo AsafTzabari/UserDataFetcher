@@ -1,0 +1,15 @@
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\bin\Debug\net9.0\UserDataFetcher.exe
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\bin\Debug\net9.0\UserDataFetcher.dll.config
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\bin\Debug\net9.0\UserDataFetcher.deps.json
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\bin\Debug\net9.0\UserDataFetcher.runtimeconfig.json
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\bin\Debug\net9.0\UserDataFetcher.dll
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\bin\Debug\net9.0\UserDataFetcher.pdb
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\obj\Debug\net9.0\UserDataFetcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\obj\Debug\net9.0\UserDataFetcher.AssemblyInfoInputs.cache
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\obj\Debug\net9.0\UserDataFetcher.AssemblyInfo.cs
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\obj\Debug\net9.0\UserDataFetcher.csproj.CoreCompileInputs.cache
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\obj\Debug\net9.0\UserDataFetcher.dll
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\obj\Debug\net9.0\refint\UserDataFetcher.dll
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\obj\Debug\net9.0\UserDataFetcher.pdb
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\obj\Debug\net9.0\UserDataFetcher.genruntimeconfig.cache
+C:\Users\ASAFZ\source\repos\UserDataFetcher\UserDataFetcher\obj\Debug\net9.0\ref\UserDataFetcher.dll
