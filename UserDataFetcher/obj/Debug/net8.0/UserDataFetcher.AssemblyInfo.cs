@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UserDataFetcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+070252029e0f1cd787af53eb02ed4fb2961e6c97")]
 [assembly: System.Reflection.AssemblyProductAttribute("UserDataFetcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UserDataFetcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

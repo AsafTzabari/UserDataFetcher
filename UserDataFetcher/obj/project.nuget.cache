@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jOsciYPp2b0=",
+  "dgSpecHash": "/tjnPo9Hyaw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASAFZ\\source\\repos\\UserDataFetcher\\UserDataFetcher\\UserDataFetcher.csproj",
+  "projectFilePath": "C:\\Users\\ASAFZ\\source\\repos\\New folder\\UserDataFetcher\\UserDataFetcher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASAFZ\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
     "C:\\Users\\ASAFZ\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",

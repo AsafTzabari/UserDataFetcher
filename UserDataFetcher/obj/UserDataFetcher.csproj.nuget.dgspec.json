@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASAFZ\\source\\repos\\UserDataFetcher\\UserDataFetcher\\UserDataFetcher.csproj": {}
+    "C:\\Users\\ASAFZ\\source\\repos\\New folder\\UserDataFetcher\\UserDataFetcher.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASAFZ\\source\\repos\\UserDataFetcher\\UserDataFetcher\\UserDataFetcher.csproj": {
+    "C:\\Users\\ASAFZ\\source\\repos\\New folder\\UserDataFetcher\\UserDataFetcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASAFZ\\source\\repos\\UserDataFetcher\\UserDataFetcher\\UserDataFetcher.csproj",
+        "projectUniqueName": "C:\\Users\\ASAFZ\\source\\repos\\New folder\\UserDataFetcher\\UserDataFetcher.csproj",
         "projectName": "UserDataFetcher",
-        "projectPath": "C:\\Users\\ASAFZ\\source\\repos\\UserDataFetcher\\UserDataFetcher\\UserDataFetcher.csproj",
+        "projectPath": "C:\\Users\\ASAFZ\\source\\repos\\New folder\\UserDataFetcher\\UserDataFetcher.csproj",
         "packagesPath": "C:\\Users\\ASAFZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASAFZ\\source\\repos\\UserDataFetcher\\UserDataFetcher\\obj\\",
+        "outputPath": "C:\\Users\\ASAFZ\\source\\repos\\New folder\\UserDataFetcher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

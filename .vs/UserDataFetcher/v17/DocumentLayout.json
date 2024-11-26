@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASAFZ\\source\\repos\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94E85C02-D38C-4DFD-9749-E80E0A9A2A31}|UserDataFetcher\\UserDataFetcher.csproj|c:\\users\\asafz\\source\\repos\\new folder\\userdatafetcher\\interfaces\\idatawriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E85C02-D38C-4DFD-9749-E80E0A9A2A31}|UserDataFetcher\\UserDataFetcher.csproj|solutionrelative:userdatafetcher\\interfaces\\idatawriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E85C02-D38C-4DFD-9749-E80E0A9A2A31}|UserDataFetcher\\UserDataFetcher.csproj|c:\\users\\asafz\\source\\repos\\new folder\\userdatafetcher\\interfaces\\iuserdatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E85C02-D38C-4DFD-9749-E80E0A9A2A31}|UserDataFetcher\\UserDataFetcher.csproj|solutionrelative:userdatafetcher\\interfaces\\iuserdatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94E85C02-D38C-4DFD-9749-E80E0A9A2A31}|UserDataFetcher\\UserDataFetcher.csproj|c:\\users\\asafz\\source\\repos\\new folder\\userdatafetcher\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94E85C02-D38C-4DFD-9749-E80E0A9A2A31}|UserDataFetcher\\UserDataFetcher.csproj|solutionrelative:userdatafetcher\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDataWriter.cs",
+              "DocumentMoniker": "C:\\Users\\ASAFZ\\source\\repos\\New folder\\UserDataFetcher\\Interfaces\\IDataWriter.cs",
+              "RelativeDocumentMoniker": "UserDataFetcher\\Interfaces\\IDataWriter.cs",
+              "ToolTip": "C:\\Users\\ASAFZ\\source\\repos\\New folder\\UserDataFetcher\\Interfaces\\IDataWriter.cs",
+              "RelativeToolTip": "UserDataFetcher\\Interfaces\\IDataWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:34:01.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserDataSource.cs",
+              "DocumentMoniker": "C:\\Users\\ASAFZ\\source\\repos\\New folder\\UserDataFetcher\\Interfaces\\IUserDataSource.cs",
+              "RelativeDocumentMoniker": "UserDataFetcher\\Interfaces\\IUserDataSource.cs",
+              "ToolTip": "C:\\Users\\ASAFZ\\source\\repos\\New folder\\UserDataFetcher\\Interfaces\\IUserDataSource.cs",
+              "RelativeToolTip": "UserDataFetcher\\Interfaces\\IUserDataSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:33:54.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASAFZ\\source\\repos\\New folder\\UserDataFetcher\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserDataFetcher\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ASAFZ\\source\\repos\\New folder\\UserDataFetcher\\Models\\User.cs",
+              "RelativeToolTip": "UserDataFetcher\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:30:58.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
